@@ -9,6 +9,9 @@ Each kernel version (C, Non SIMD x86-64 assembly, SIMD YMM x86 assembly, and CUD
 
 ![image](https://github.com/its-teph/1dStencil-in-Assembly/assets/80933795/b1e57751-18b0-4d26-b324-500ab119e26c)
 
+It can be seen from overall data that the SIMD x86-64 assembly implementation is the fastest version. To discuss the results obtained, in terms of array size of 2^20, Non SIMD Assembly implementation are 64.05% faster than the C, meanwhile SIMD Assembly implementation is 96.36% faster than the Non SIMD assembly, lastly it can be said that the CUDA is 64% faster than the C and 1.05% faster than the Non SIMD. 
+
+
 II. Outputs
 
 To check the correctness of the output of each kernel, the C version is used as the basis. To better check the similiraties of each version, I used the same data for all versions instead of randomly generated for this screenshot. However, the code also have the implementation of random number for X vector. 
