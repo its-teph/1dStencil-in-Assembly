@@ -1,0 +1,8 @@
+﻿  1d-Stencil-main.c
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(38,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(42,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(67,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(91,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(115,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SASM_CEPARCO\1d-Stencil-Susada\1d-Stencil-Susada\1d-Stencil-main.c(25,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  1d-Stencil-Susada.vcxproj -> D:\SASM_CEPARCO\1d-Stencil-Susada\x64\Debug\1d-Stencil-Susada.exe
